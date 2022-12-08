@@ -1,5 +1,9 @@
 <template>
   <div>
-    <NuxtWelcome />
+    header
   </div>
 </template>
+
+<script setup>
+
+</script>

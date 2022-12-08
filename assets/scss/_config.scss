@@ -1,0 +1,17 @@
+$yellow: #ffcd1d;
+$purple: #8894ff;
+$purple-dark: #5552fc;
+$orange:#fd8b00;
+$red:#fe7576;
+$green: #2bda98;
+$blue:#2497ff;
+$pink:#db75fc;
+
+$shadow: 4px 4px 0px 0px;
+
+%centered-screen {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}

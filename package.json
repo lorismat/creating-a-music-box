@@ -8,6 +8,12 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "nuxt": "3.0.0"
+    "@nuxt/content": "^2.2.2",
+    "nuxt": "3.0.0",
+    "sass": "^1.56.1"
+  },
+  "dependencies": {
+    "p5": "^1.5.0",
+    "tone": "^14.7.77"
   }
 }
